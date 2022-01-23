@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Evren Tan</h1>
+<h1 align="center">Hi 👋🏻, I'm Evren Tan</h1> 
 <h3 align="center">A Software Craftsman | Co-Founder of Turkey Java Community | A Java Geek | A JCP Associate Member | A GitKraken Ambassador | A TOGAF 9.2 Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evrentan&label=Profile%20views&color=0e75b6&style=flat" alt="evrentan" /> </p>
