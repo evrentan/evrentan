@@ -45,3 +45,5 @@
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evrentan&show_icons=true&locale=en&theme=github_dark" alt="Evren's GitHub Stats" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evrentan&theme=github-dark" alt="Evren's Github Streak Stats" /></p>
+
+<p align="lef"><img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Random Jokes Card"/></p>
