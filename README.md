@@ -46,4 +46,5 @@
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evrentan&theme=github-dark" alt="Evren's Github Streak Stats" /></p>
 
+<h3 align="left">Random Developer Jokes:</h3>
 <p align="lef"><img src="https://readme-jokes.vercel.app/api?theme=nightowl" alt="Random Jokes Card"/></p>
