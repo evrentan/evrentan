@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/evrn_tan" target="blank"><img src="https://img.shields.io/twitter/follow/evrn_tan?logo=twitter&style=for-the-badge" alt="evrn_tan" /></a> </p>
 
-- 🔭 I’m currently working on [Spring Boot Project Example](https://github.com/evrentan/spring-boot-project-example) & [Restaurant Management Project with Microservice Architecture](https://github.com/evrentan/restaurant-management)
+- 🔭 I’m currently working on [Community Workspace with Microservice Architecture](https://github.com/evrentan/community-workspace), [Spring Boot Project Example](https://github.com/evrentan/spring-boot-project-example) & [Java Examples](https://github.com/evrentan/java-examples)
 
 - 👨‍💻 All of my projects are available at [https://github.com/evrentan](https://github.com/evrentan)
 
