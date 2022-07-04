@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [Community Workspace with Microservice Architecture](https://github.com/evrentan/community-workspace), [Spring Boot Project Example](https://github.com/evrentan/spring-boot-project-example) & [Java Examples](https://github.com/evrentan/java-examples)
 
+- :star: My open source project for QR Code Generator available at [QR Code Generator Backend in Java](https://github.com/evrentan/qr-code-generator-backend) & [QR Code Generator Web App in React](https://github.com/evrentan/qr-code-generator-web-app)
+
 - 👨‍💻 All of my projects are available at [https://github.com/evrentan](https://github.com/evrentan)
 
 - 📝 I regularly write articles on [https://evrentan.medium.com](https://evrentan.medium.com)
