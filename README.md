@@ -11,15 +11,17 @@
 
 - :star: My open source project for QR Code Generator available at [QR Code Generator Backend in Java](https://github.com/evrentan/qr-code-generator-backend) & [QR Code Generator Web App in React](https://github.com/evrentan/qr-code-generator-web-app)
 
-- 👨‍💻 All of my projects are available at [https://github.com/evrentan](https://github.com/evrentan)
+- 👨‍💻 All of my projects are available a  my [GitHub Account](https://github.com/evrentan)
 
-- 📝 I regularly write articles on [https://evrentan.medium.com](https://evrentan.medium.com)
+- 📝 I regularly write articles at my [Medium](https://evrentan.medium.com)
 
 - 💬 Ask me about **Java, Spring Boot, Software Craftsmanship**
 
-- 📫 How to reach me **https://linktr.ee/evrentan**
+- 📫 Reach all my links at [Linktr](https://linktr.ee/evrentan)
 
-- 📄 Know about my experiences [https://evrentan.com](https://evrentan.com)
+- :bookmark: Book an online session with me at [Superpeer](https://superpeer.com/evrentan)
+
+- 📄 Know about my experiences at my [HomePage](https://evrentan.com) :bangbang: Currently under construction :bangbang:
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
