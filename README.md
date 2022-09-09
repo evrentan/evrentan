@@ -25,7 +25,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Singleton Design Pattern in Java](https://evrentan.medium.com/singleton-design-pattern-in-java-573514f02b5e------2)
 - [Localization in Java by ResourceBundle Library](https://evrentan.medium.com/localization-in-java-by-resourcebundle-library-137dc62c3bb4?source=rss-16e1fd38164------2)
 - [Javadoc — Software Documentation](https://evrentan.medium.com/javadoc-software-documentation-b028284377ce?source=rss-16e1fd38164------2)
 - [Builder Design Pattern](https://evrentan.medium.com/builder-design-pattern-3f7a4fd1c0cb?source=rss-16e1fd38164------2)
