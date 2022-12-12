@@ -17,7 +17,7 @@
 
 - 📝 I regularly write articles within my [Medium Account](https://evrentan.medium.com) (I will probably pause using Medium and post my articles in my personal page)
 
-- 💬 Ask me about **Java, Spring Boot, Software Craftsmanship**
+- 💬 Ask me about **Java, Spring Boot, Software Crafting**
 
 - 📫 Reach all my links in my [Linktr Account](https://linktr.ee/evrentan)
 
