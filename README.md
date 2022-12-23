@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evrentan&label=Profile%20views&color=0e75b6&style=flat" alt="evrentan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evrentan&column=8&theme=dracula&margin-w=15&margin-h=15&no-bg=true" alt="evrentan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evrentan&column=5&theme=dracula&margin-w=30&margin-h=15&no-bg=true" alt="evrentan" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/evrn_tan" target="blank"><img src="https://img.shields.io/twitter/follow/evrn_tan?logo=twitter&style=for-the-badge" alt="evrn_tan" /></a> </p>
 
