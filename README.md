@@ -6,8 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evrentan&column=5&theme=dracula&margin-w=30&margin-h=15&no-bg=true" alt="evrentan" /></a> </p>
 
 <div>
-<p align="left"> <a href="https://twitter.com/evrn_tan" target="blank" rel="noreferrer noopener" margin-right=15px><img src="https://img.shields.io/twitter/follow/evrn_tan?logo=twitter&style=for-the-badge" alt="evrn_tan" /></a> 
-<a href="https://linkedin.com/in/evren-tan" target="blank" rel="noreferrer noopener" margin-right=15px><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="Evren Tan"/></p>  
+<a href="https://twitter.com/evrn_tan" target="blank" rel="noreferrer noopener" margin-right=15px><img src="https://img.shields.io/twitter/follow/evrn_tan?logo=twitter&style=for-the-badge" alt="evrn_tan" /></a> 
+<a href="https://linkedin.com/in/evren-tan" target="blank" rel="noreferrer noopener" margin-right=15px><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Evren Tan"/>
 </div>
 
 - 🔭 I’m currently working on [Community Workspace with Microservice Architecture](https://github.com/evrentan/community-workspace), [Spring Boot Project Example](https://github.com/evrentan/spring-boot-project-example) & [Java Examples](https://github.com/evrentan/java-examples)
