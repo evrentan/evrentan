@@ -8,7 +8,6 @@
 <div>
 <a href="https://twitter.com/evrn_tan" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/twitter/follow/evrn_tan?logo=twitter&style=for-the-badge" alt="evrn_tan"/></a> 
 <a href="https://linkedin.com/in/evren-tan" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Evren Tan"/></a>
-<a href="https://www.youtube.com/@evrentan" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/youtube/channel/subscribers/UCX_dtZ6hSrBOwzESQ-KqGAQ?label=Youtube&logo=Youtube&style=for-the-badge" alt="Evren Tan"/></a>
 </div>
 
 - 🔭 I’m currently working on [Community Workspace with Microservice Architecture](https://github.com/evrentan/community-workspace), [Spring Boot Project Example](https://github.com/evrentan/spring-boot-project-example) & [Java Examples](https://github.com/evrentan/java-examples)
