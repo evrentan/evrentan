@@ -29,11 +29,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Factory Method Design Pattern in Java](https://evrentan.medium.com/factory-method-design-pattern-in-java-ce3a777214a7?source=rss-16e1fd38164------2)
 - [Singleton Design Pattern in Java](https://evrentan.medium.com/singleton-design-pattern-in-java-573514f02b5e?source=rss-16e1fd38164------2)
 - [Localization in Java by ResourceBundle Library](https://evrentan.medium.com/localization-in-java-by-resourcebundle-library-137dc62c3bb4?source=rss-16e1fd38164------2)
 - [Javadoc — Software Documentation](https://evrentan.medium.com/javadoc-software-documentation-b028284377ce?source=rss-16e1fd38164------2)
 - [Builder Design Pattern](https://evrentan.medium.com/builder-design-pattern-3f7a4fd1c0cb?source=rss-16e1fd38164------2)
-- [Java Reflection API](https://evrentan.medium.com/java-reflection-api-97ff4c3d14f9?source=rss-16e1fd38164------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
