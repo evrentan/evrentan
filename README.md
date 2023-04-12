@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available in my [GitHub Account](https://github.com/evrentan)
 
-- 📝 I regularly write articles within my [Medium Account](https://evrentan.medium.com) (I will probably pause using Medium and post my articles in my personal page)
+- 📝 I regularly write articles within my [Medium Account](https://evrentan.medium.com)
 
 - 💬 Ask me about **Java, Spring Boot, Software Crafting**
 
