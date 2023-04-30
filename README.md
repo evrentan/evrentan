@@ -29,11 +29,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Motivation: My 3 Simple Techniques to Stay Focused](https://evrentan.medium.com/mastering-motivation-my-3-simple-techniques-to-stay-focused-c648ed20a21f?source=rss-16e1fd38164------2)
 - [Revolutionize Your IntelliJ Idea Experience: My Top 10 Plugins and Themes](https://evrentan.medium.com/revolutionize-your-intellij-idea-experience-my-top-10-plugins-and-themes-3a855dc64ba3?source=rss-16e1fd38164------2)
 - [Step-by-Step Guide: Writing Effective Technical Articles in 6 Easy Steps](https://tech.jotform.com/writing-technical-articles-in-6-easy-steps-620d0ffa77e4?source=rss-16e1fd38164------2)
 - [Alias, Time Saving Short Cut](https://evrentan.medium.com/alias-time-saving-short-cut-99f8327b5858?source=rss-16e1fd38164------2)
 - [Bridge Design Pattern in Java](https://evrentan.medium.com/bridge-design-pattern-in-java-1c9161fea1e1?source=rss-16e1fd38164------2)
-- [Factory Method Design Pattern in Java](https://evrentan.medium.com/factory-method-design-pattern-in-java-ce3a777214a7?source=rss-16e1fd38164------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
