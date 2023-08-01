@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, Software Crafting**
 
-- 📫 Reach all my links in my [Linktr Account](https://bento.me/evren)
+- 📫 Reach all my [links](https://bento.me/evren)
 
 - :bookmark: Book an online session with me at [Superpeer](https://superpeer.com/evrentan)
 
