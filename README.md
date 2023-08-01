@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evrentan&column=5&theme=dracula&margin-w=30&margin-h=15&no-bg=true" alt="evrentan" /></a> </p>
 
 <div>
-<a href="https://twitter.com/evrn_tan" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/twitter/follow/evrn_tan?logo=twitter&style=for-the-badge" alt="evrn_tan"/></a> 
+<a href="https://x.com/evrn_tan" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/twitter/follow/evrn_tan?logo=twitter&style=for-the-badge" alt="evrn_tan"/></a> 
 <a href="https://linkedin.com/in/evren-tan" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Evren Tan"/></a>
 </div>
 
@@ -18,11 +18,11 @@
 
 - 👨‍💻 All of my projects are available in my [GitHub Account](https://github.com/evrentan)
 
-- 📝 I regularly write articles within my [Medium Account](https://evrentan.medium.com)
+- 📝 I regularly write articles within my [blog](https://spotlight.evrentan.com)
 
 - 💬 Ask me about **Java, Spring Boot, Software Crafting**
 
-- 📫 Reach all my links in my [Linktr Account](https://linktr.ee/evrentan)
+- 📫 Reach all my links in my [Linktr Account](https://bento.me/evren)
 
 - :bookmark: Book an online session with me at [Superpeer](https://superpeer.com/evrentan)
 
