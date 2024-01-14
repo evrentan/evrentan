@@ -24,7 +24,7 @@
 
 - 📫 Reach all my [links](https://bento.me/evren)
   
-- 🎓 Reach all my [certificates](https://www.credly.com/users/evren-tan/badges)
+- 🎓 Reach all my [certificates](https://www.credly.com/users/evren)
 
 - :bookmark: Book an online session with me at [Superpeer](https://superpeer.com/evrentan)
 
