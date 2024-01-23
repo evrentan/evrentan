@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/evren-tan" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Evren Tan"/></a>
 </div>
 
-- 🔭 I’m currently working on [Community Workspace with Microservice Architecture](https://github.com/evrentan/community-workspace), [Java Examples](https://github.com/evrentan/java-examples), [Spring Boot Project Example](https://github.com/evrentan/spring-boot-project-example) & [Stock Tracking App](https://github.com/evrentan/stock-tracking-system) which is forked from [Onur Aktas](https://github.com/Onuraktaj)
+- 🔭 I’m currently working on [Community Workspace with Microservice Architecture](https://github.com/evrentan/community-workspace), [Java Examples](https://github.com/evrentan/java-examples), [Spring Boot Project Example](https://github.com/evrentan/spring-boot-project-example) & [Stock Tracking App](https://github.com/evrentan/stock-tracking-system) which is forked from [Onur Aktas](https://github.com/Onuraktasj)
 
 - :star: My open source project for QR Code Generator available at [QR Code Generator Backend in Java](https://github.com/evrentan/qr-code-generator-backend) & [QR Code Generator Web App in React](https://github.com/evrentan/qr-code-generator-web-app)
 
