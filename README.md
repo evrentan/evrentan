@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏻, I'm Evren Tan</h1> 
-<h3 align="center">A Software Crafter | Engineering Manager at <a href="https://propertyfinder.ae">Property Finder</a> | Community Lead & Co-Founder of <a href="https://turkiyejava.community">Türkiye Java Community</a> | A <a href="https://java.com">Java</a> Enthusiast | A <a href="https://jcp.org">JCP</a> Associate Member | A <a href="https://ceng.metu.edu.tr">METU CENG</a> Grad | An AWS Certified <a href="https://aws.amazon.com/certification/certified-cloud-practitioner">Cloud Practitioner</a> | A <a href="https://www.opengroup.org/togaf">TOGAF</a> 9.2 Architect</h3>
+<h3 align="center">Software Crafter | Engineering Manager at <a href="https://propertyfinder.ae">Property Finder</a> | Community Lead & Co-Founder of <a href="https://turkiyejava.community">Türkiye Java Community</a> | <a href="https://java.com">Java</a> Enthusiast | <a href="https://jcp.org">JCP</a> Associate Member | <a href="https://ceng.metu.edu.tr">METU CENG</a> Grad | AWS Certified <a href="https://aws.amazon.com/certification/certified-cloud-practitioner">Cloud Practitioner</a> | <a href="https://www.opengroup.org/togaf">TOGAF</a> 9.2 Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evrentan&label=Profile%20views&color=0e75b6&style=flat" alt="evrentan" /> </p>
 
