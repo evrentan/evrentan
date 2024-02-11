@@ -14,9 +14,7 @@
 
 - :star: My open source project for QR Code Generator available at [QR Code Generator Backend in Java](https://github.com/evrentan/qr-code-generator-backend) & [QR Code Generator Web App in React](https://github.com/evrentan/qr-code-generator-web-app)
 
-- 📄 Know about my experiences on my [Personal Page](https://evrentan.com) & also you can reach via [my second page](https://evrentan.dev)
-
-- 👨‍💻 All of my projects are available in my [GitHub Account](https://github.com/evrentan)
+- 📄 Check my [Personal Page](https://evrentan.com) to stay up-to-date about me & also you can reach via [my second page](https://evrentan.dev)
 
 - 📝 I regularly write articles within my [blog](https://spotlight.evrentan.com)
 
