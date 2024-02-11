@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋🏻, Welcome to Evren Tan's Crafting Studio</h1> 
+
+<h3 align="center">Software Crafter: Crafting Digital Masterpieces with Code</h3>
+
 <h3 align="center">Software Crafter | Engineering Manager at <a href="https://propertyfinder.ae">Property Finder</a> | Community Lead & Co-Founder of <a href="https://turkiyejava.community">Türkiye Java Community</a> | <a href="https://java.com">Java</a> Enthusiast | <a href="https://jcp.org">JCP</a> Associate Member | <a href="https://ceng.metu.edu.tr">METU CENG</a> Grad | AWS Certified <a href="https://aws.amazon.com/certification/certified-cloud-practitioner">Cloud Practitioner</a> | <a href="https://www.opengroup.org/togaf">TOGAF</a> 9.2 Architect</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evrentan&label=Profile%20views&color=0e75b6&style=flat" alt="evrentan" /> </p>
