@@ -37,11 +37,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Quality Matters: Building Software That Lasts](https://evrentan.medium.com/code-quality-matters-building-software-that-lasts-954366d8a0a3?source=rss-16e1fd38164------2)
 - [Code Ownership: A Key to Sustainable Software Development](https://evrentan.medium.com/code-ownership-a-key-to-sustainable-software-development-8434611bf590?source=rss-16e1fd38164------2)
 - [Kodumun Kalitesi](https://evrentan.medium.com/kodumun-kalitesi-b23c330bf0d2?source=rss-16e1fd38164------2)
 - [Kodum mu Kodum](https://evrentan.medium.com/kodum-mu-kodum-f742ad1e1a5b?source=rss-16e1fd38164------2)
 - [Mastering Motivation: My 3 Simple Techniques to Stay Focused](https://evrentan.medium.com/mastering-motivation-my-3-simple-techniques-to-stay-focused-c648ed20a21f?source=rss-16e1fd38164------2)
-- [Revolutionize Your IntelliJ Idea Experience: My Top 10 Plugins and Themes](https://evrentan.medium.com/revolutionize-your-intellij-idea-experience-my-top-10-plugins-and-themes-3a855dc64ba3?source=rss-16e1fd38164------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
