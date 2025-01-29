@@ -30,8 +30,6 @@
   
 - 🎓 Reach all my [certificates](https://www.credly.com/users/evren)
 
-- :bookmark: Book an online session with me at [Superpeer](https://superpeer.com/evrentan)
-
 - 💵: You can sporsor me from [Buy Me a Coffee](https://buymeacoffee.com/evrentan) 
 
 
