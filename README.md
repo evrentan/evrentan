@@ -35,11 +35,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [A Simple Java Cache App Using WeakHashMap](https://evrentan.medium.com/a-simple-java-cache-app-using-weakhashmap-67f88fa407bc?source=rss-16e1fd38164------2)
 - [Exploring Java WeakHashMap: How Weak References Can Improve Your Caching Strategy](https://evrentan.medium.com/exploring-java-weakhashmap-how-weak-references-can-improve-your-caching-strategy-e2e30e6d6d98?source=rss-16e1fd38164------2)
 - [Leading with Conversations: The Art of Communication in Leadership](https://evrentan.medium.com/leading-with-conversations-the-art-of-communication-in-leadership-aca544e36c2d?source=rss-16e1fd38164------2)
 - [Code Quality Matters: Building Software That Lasts](https://evrentan.medium.com/code-quality-matters-building-software-that-lasts-954366d8a0a3?source=rss-16e1fd38164------2)
 - [Code Ownership: A Key to Sustainable Software Development](https://evrentan.medium.com/code-ownership-a-key-to-sustainable-software-development-8434611bf590?source=rss-16e1fd38164------2)
-- [Kodumun Kalitesi](https://evrentan.medium.com/kodumun-kalitesi-b23c330bf0d2?source=rss-16e1fd38164------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
