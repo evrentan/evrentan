@@ -2,16 +2,15 @@
 
 <h3 align="center">Software Crafter: Crafting Digital Masterpieces with Code</h3>
 
-<h3 align="center">Software Crafter | VP of DevOps at <a href="https://pointr.tech">Pointr</a> | Community Lead & Co-Founder of <a href="https://turkiyejava.community">Türkiye Java Community</a> | <a href="https://java.com">Java</a> ☕️ & <a href="https://en.wikipedia.org/wiki/DevOps"> DevOps</a> ⚙️ Enthusiast | <a href="https://jcp.org">JCP</a> Associate Member | <a href="https://ceng.metu.edu.tr">METU CENG</a> Grad | Microsoft Azure Certified Professional | AWS Certified Cloud Practitioner | <a href="https://www.opengroup.org/togaf">TOGAF</a> 9.2 Architect</h3>
+<h3 align="center">Software Crafter </a> | Co-Founder of <a href="https://turkiyejava.community">Türkiye Java Community</a> | <a href="https://java.com">Java</a> ☕️ & <a href="https://en.wikipedia.org/wiki/DevOps"> DevOps</a> ⚙️ Enthusiast | <a href="https://jcp.org">JCP</a> Associate Member | <a href="https://ceng.metu.edu.tr">METU CENG</a> Grad | Microsoft Azure Certified Professional | AWS Certified Cloud Practitioner | <a href="https://www.opengroup.org/togaf">TOGAF</a> 9.2 Architect | Olive 🫒 & Strawberry 🍓 Farmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evrentan&label=Profile%20views&color=0e75b6&style=flat" alt="evrentan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evrentan&column=5&theme=dracula&margin-w=30&margin-h=15&no-bg=true" alt="evrentan" /></a> </p>
 
 <div>
-<a href="https://x.com/evrn_tan" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/twitter/follow/evrn_tan?logo=twitter&style=for-the-badge" alt="evrn_tan"/></a> 
 <a href="https://linkedin.com/in/evren-tan" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Evren Tan"/></a>
-<a href="https://buymeacoffee.com/evrentan" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee" alt="Evren Tan"/></a>
+<a href="https://x.com/evrn_tan" target="_blank" rel="noopener noreferrer" margin-right=15px><img src="https://img.shields.io/twitter/follow/evrn_tan?logo=twitter&style=for-the-badge" alt="evrn_tan"/></a> 
 </div>
 
 - 🔭 I’m currently working on [Community Workspace with Microservice Architecture](https://github.com/evrentan/community-workspace), [Java Examples](https://github.com/evrentan/java-examples), [Spring Boot Project Example](https://github.com/evrentan/spring-boot-project-example) & [Stock Tracking App](https://github.com/evrentan/stock-tracking-system) which is forked from [Onur Aktas](https://github.com/Onuraktasj)'s [Stock Tracking System](https://github.com/Onuraktasj/stock-tracking-system) repository
@@ -26,13 +25,9 @@
 
 - 📝 I regularly write articles within my [blog](https://spotlight.evrentan.com)
 
-- 💬 Ask me about **Java, Spring Boot, Software Crafting, Developer Relations**
-
-- 📫 Reach all my [links](https://bento.me/evren)
+- 💬 Ask me about **Java, Spring Boot, Software Crafting, DevOps, Leadership, and more**
   
 - 🎓 Reach all my [certificates](https://www.credly.com/users/evren)
-
-- 💵: You can sporsor me from [Buy Me a Coffee](https://buymeacoffee.com/evrentan) 
 
 
 ### Blogs posts
@@ -46,10 +41,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/evrn_tan" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evrn_tan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/evren-tan" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evren-tan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16635445" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16635445" height="30" width="40" /></a>
 <a href="https://medium.com/@evrentan" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@evrentan" height="30" width="40" /></a>
+<a href="https://twitter.com/evrn_tan" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="evrn_tan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucx_dtz6hsrbowzesq-kqgaq" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucx_dtz6hsrbowzesq-kqgaq" height="30" width="40" /></a>
 </p>
 
