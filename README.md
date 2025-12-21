@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Crafter: Crafting Digital Masterpieces with Code</h3>
 
-<h3 align="center">Software Crafter </a> | Co-Founder of <a href="https://turkiyejava.community">Türkiye Java Community</a> | <a href="https://java.com">Java</a> ☕️ & <a href="https://en.wikipedia.org/wiki/DevOps"> DevOps</a> ⚙️ Enthusiast | <a href="https://jcp.org">JCP</a> Associate Member | <a href="https://ceng.metu.edu.tr">METU CENG</a> Grad | Microsoft Azure Certified Professional | AWS Certified Cloud Practitioner | <a href="https://www.opengroup.org/togaf">TOGAF</a> 9.2 Architect | Olive 🫒 & Strawberry 🍓 Farmer</h3>
+<h3 align="center">Software Crafter </a> | Co-Founder of <a href="https://turkiyejava.community">Türkiye Java Community</a> | <a href="https://java.com">Java</a> ☕️ & <a href="https://en.wikipedia.org/wiki/DevOps"> DevOps</a> ⚙️ Enthusiast | <a href="https://jcp.org">JCP</a> Associate Member | <a href="https://ceng.metu.edu.tr">METU CENG</a> Grad | Microsoft Azure Certified Professional | AWS Certified Cloud Practitioner | <a href="https://www.opengroup.org/togaf">TOGAF</a> 9.2 Architect | Olive 🫒 & Strawberry 🍓 Farmer | Sailor ⛵️</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evrentan&label=Profile%20views&color=0e75b6&style=flat" alt="evrentan" /> </p>
 
