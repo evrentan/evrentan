@@ -32,11 +32,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Yazılım Yaşam Döngüsünde &lpar;SDLC&rpar; Yeni Bir Katman: Otonom Kalite Güvencesi İçin “LLM-as-a-Judge”](https://evrentan.medium.com/yaz%C4%B1l%C4%B1m-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BCnde-sdlc-yeni-bir-katman-otonom-kalite-g%C3%BCvencesi-i%CC%87%C3%A7in-llm-as-a-judge-a1aee1260c61?source=rss-16e1fd38164------2)
 - [Brew It Yourself : How I Made My CLI Tool Installable via Homebrew](https://evrentan.medium.com/brew-it-yourself-how-i-made-my-cli-tool-installable-via-homebrew-2c5249bd149d?source=rss-16e1fd38164------2)
 - [The Two-Pizza Rule: Why Smaller Teams Work Better](https://evrentan.medium.com/the-two-pizza-rule-why-smaller-teams-work-better-d88b01ecec9c?source=rss-16e1fd38164------2)
 - [Feedback Without Fear: Mastering the Art of Difficult Conversations](https://evrentan.medium.com/feedback-without-fear-mastering-the-art-of-difficult-conversations-9c58f43621a5?source=rss-16e1fd38164------2)
 - [A Simple Java Cache App Using WeakHashMap](https://evrentan.medium.com/a-simple-java-cache-app-using-weakhashmap-67f88fa407bc?source=rss-16e1fd38164------2)
-- [Exploring Java WeakHashMap: How Weak References Can Improve Your Caching Strategy](https://evrentan.medium.com/exploring-java-weakhashmap-how-weak-references-can-improve-your-caching-strategy-e2e30e6d6d98?source=rss-16e1fd38164------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
